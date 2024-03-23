@@ -10,3 +10,4 @@ G:\WorkInEkhtiarieh\Dapper\DapperApp\Repository\obj\Debug\net8.0\Repository.dll
 G:\WorkInEkhtiarieh\Dapper\DapperApp\Repository\obj\Debug\net8.0\refint\Repository.dll
 G:\WorkInEkhtiarieh\Dapper\DapperApp\Repository\obj\Debug\net8.0\Repository.pdb
 G:\WorkInEkhtiarieh\Dapper\DapperApp\Repository\obj\Debug\net8.0\ref\Repository.dll
+G:\WorkInEkhtiarieh\Dapper\DapperApp\Repository\obj\Debug\net8.0\Repository.sourcelink.json

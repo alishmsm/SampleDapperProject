@@ -49,7 +49,7 @@
             },
             "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.8.6, )"
+              "version": "[4.6.1, )"
             }
           },
           "imports": [

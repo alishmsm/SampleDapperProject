@@ -39,3 +39,4 @@ G:\WorkInEkhtiarieh\Dapper\DapperApp\DapperApp\obj\Debug\net8.0\refint\DapperApp
 G:\WorkInEkhtiarieh\Dapper\DapperApp\DapperApp\obj\Debug\net8.0\DapperApp.pdb
 G:\WorkInEkhtiarieh\Dapper\DapperApp\DapperApp\obj\Debug\net8.0\DapperApp.genruntimeconfig.cache
 G:\WorkInEkhtiarieh\Dapper\DapperApp\DapperApp\obj\Debug\net8.0\ref\DapperApp.dll
+G:\WorkInEkhtiarieh\Dapper\DapperApp\DapperApp\obj\Debug\net8.0\DapperApp.sourcelink.json
